@@ -1,0 +1,7 @@
+{
+  "name": "BRAGA IA",
+  "description": "An elite AI assistant that generates texts, images, quizzes, code, and more with speed, precision, and a touch of luxury. The interface is designed with a sophisticated black and gold theme to reflect power and intelligence.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
